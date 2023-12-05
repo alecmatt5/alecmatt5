@@ -13,7 +13,7 @@ I'm deeply passionate about turning data into actionable insights, and currently
 - 📈 Data Visualization: Matplotlib, Seaborn
 - 🤖 Machine Learning: Scikit-Learn, TensorFlow
 - 🛢️ Database: SQL, PostgreSQL
-- 🌐 Web Development: Django, Flask
+- 🌐 Web Development: HTML, CSS, Django, Flask
 - ☁️ Cloud Services: Amazon Web Services (AWS)
 - 📦 Tools: Git, GitHub, VS Code
 
