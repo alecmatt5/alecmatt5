@@ -23,3 +23,5 @@ I'm deeply passionate about turning data into actionable insights, and currently
 - 🔗 LinkedIn: [Alec Basile](https://www.linkedin.com/in/alecbasile/)
 
 Let's connect and explore the world of data together! 🚀
+
+![Alec's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alecmatt5&layout=compact)
