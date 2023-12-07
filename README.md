@@ -1,4 +1,4 @@
-# Hi, I'm Alec 👋
+# Alec Basile
 
 📊 Data Scientist | 📈 Data Analyst | 💻 Developer | 🕴️ Founder
 
