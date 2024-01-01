@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm deeply passionate about turning data into actionable insights, and currently, I'm immersed in the exciting world of data science and web development. My primary focus is on developing my own web application where I harness the power of machine learning to predict betting outcomes for NFL and NBA games. Additonally, for the month of December I am strengthening my skills by participating in the Advent of Coding. Check out my solutions: [AOC 23](https://github.com/alecmatt5/AOC_23)
+I'm deeply passionate about turning data into actionable insights, and currently, I'm immersed in the exciting world of data science and web development. My primary focus is on developing my own web application where I harness the power of machine learning to predict betting outcomes for NFL and NBA games.
 
 ## My Tech Stack
 
